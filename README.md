@@ -16,7 +16,7 @@
 Building the resume is as easy as adding `ng-app="Resume"` to your body
 and then using the directives listed below.
 
-## Directives
+## User Guide
 
 ### `<resume>`
 
